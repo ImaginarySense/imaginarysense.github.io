@@ -1,0 +1,3 @@
+[submodule "teleprompter/current"]
+	path = teleprompter/current
+	url = https://github.com/imaginaryfilms/Teleprompter-Core
