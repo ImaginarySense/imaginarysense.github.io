@@ -1,4 +1,4 @@
-![Teleprompter](http://imaginary.tech/teleprompter/img/header.png)
+![Teleprompter](https://github.com/imaginaryfilms/Teleprompter-Electron/raw/master/build/install-spinner.png)
 
 # GitHub Hosted Teleprompter Instances
 This repo uses GitHub Hosting to provide high speed access to all mayor versions of Teleprompter.
